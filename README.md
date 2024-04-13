@@ -1,9 +1,5 @@
-# Movix
+# Cinema Crush
 
-`git branch -m main master` <br/>
-`git fetch origin` <br/>
-`git branch -u origin/master master` <br/>
-`git remote set-head origin -a` <br/>
 
 # Introduction:
 World Movix (Web React Application): A dynamic and fully responsive web app that explores exciting movies and
