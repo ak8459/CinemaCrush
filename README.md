@@ -24,8 +24,8 @@ CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwin
 - **Dynamic Movie Trailers:** Catch previews of upcoming releases and popular films currently captivating audiences.
 - **Tailored Recommendations:** Discover personalized movie suggestions based on your viewing history and preferences.
 - **Trending Selections:** Stay in the loop with a curated section showcasing the latest trending movies right on your dashboard.
-- **Cross-Platform Compatibility:** Experience seamless browsing across desktops, laptops, tablets, and smartphones with our responsive design.
-- **Efficient Search Capability: **Easily find your favorite movies and TV shows with our intuitive search bar.
+-  **Cross-Platform Compatibility:** Experience seamless browsing across desktops, laptops, tablets, and smartphones with our responsive design.
+- **Efficient Search Capability:** Easily find your favorite movies and TV shows with our intuitive search bar.
 - **Sleek, User-Centric Design:** Enjoy a modern interface designed for effortless navigation and maximum user satisfaction.
 - **Flexible Filtering and Sorting:** Customize your movie browsing experience with genre-based filtering and sorting options by title, popularity, and release date.
 
