@@ -2,7 +2,7 @@
 
 
 # Introduction:
-CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, and SCSS.
+CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwind CSS, and SCSS.
 It consists of several pages, including a home page, trending page, details page, explore page, and search page.
 The website fetches data using the TMDB API, which provides free movie data for the project.
 a dynamic and engaging movie website provides movie enthusiasts with a wide range of movies to explore and enjoy.
