@@ -29,6 +29,11 @@ CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwin
 - **Sleek, User-Centric Design:** Enjoy a modern interface designed for effortless navigation and maximum user satisfaction.
 - **Flexible Filtering and Sorting:** Customize your movie browsing experience with genre-based filtering and sorting options by title, popularity, and release date.
 
+# Screenshots
+## Home
+ ![Screenshot 2024-04-14 192025](https://github.com/ak8459/CinemaCrush/assets/87300147/1e7bf2d2-958b-4f78-b912-c128a43ff251)
+
+
 
 
 
