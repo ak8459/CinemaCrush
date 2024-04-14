@@ -18,8 +18,8 @@ import "./style.scss";
 const Carousel = ({ data, loading, endpoint, title }) => {
     const carouselContainer = useRef();
     const { url } = useSelector((state) => state.home);
+  
     const navigate = useNavigate();
-
     const navigation = (dir) => {
         const container = carouselContainer.current;
 
@@ -55,7 +55,7 @@ const Carousel = ({ data, loading, endpoint, title }) => {
                     onClick={() => navigation("left")}
                 />
                 <BsFillArrowRightCircleFill
-                    className="carouselRighttNav arrow"
+                    className="carouselRightNav arrow"
                     onClick={() => navigation("right")}
                 />
                 {!loading ? (

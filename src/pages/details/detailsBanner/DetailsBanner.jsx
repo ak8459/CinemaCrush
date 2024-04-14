@@ -42,9 +42,9 @@ const DetailsBanner = ({ video, crew }) => {
                 <>
                     {!!data && (
                         <React.Fragment>
-                            <div className="backdrop-img">
+                            {/* <div className="backdrop-img">
                                 <Img src={url.backdrop + data.backdrop_path} />
-                            </div>
+                            </div> */}
                             <div className="opacity-layer"></div>
                             <ContentWrapper>
                                 <div className="content">
@@ -91,7 +91,7 @@ const DetailsBanner = ({ video, crew }) => {
                                                     setVideoId(video.key);
                                                 }}
                                             >
-                                                <PlayIcon />
+                                                {/* <PlayIcon /> */}
                                                 <span className="text">
                                                     Watch Trailer
                                                 </span>
