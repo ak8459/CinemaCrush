@@ -17,6 +17,13 @@ CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwin
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
+# Features
+
+   -  Movie information: A movie website typically provides information about movies, including title, genre, cast, plot summary, and release date.
+  - Movie reviews and ratings: Many movie websites allow users to rate and review movies, providing feedback that can help others decide whether to watch a particular movie.
+  -  Movie trailers: A movie website may include trailers for upcoming movies or popular films that are currently in theaters.
+  -  Recommendations: Many movie websites provide personalized movie recommendations based on a user's viewing history or preferences.
+ -  Watchlist: A watchlist feature allows users to save movies they want to watch later. Some movie websites also provide recommendations based on the movies a user has saved to their watchlist.
 
 
 
