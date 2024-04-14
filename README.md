@@ -30,8 +30,25 @@ CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwin
 - **Flexible Filtering and Sorting:** Customize your movie browsing experience with genre-based filtering and sorting options by title, popularity, and release date.
 
 # Screenshots
-## Home
+## Home page
  ![Screenshot 2024-04-14 192025](https://github.com/ak8459/CinemaCrush/assets/87300147/1e7bf2d2-958b-4f78-b912-c128a43ff251)
+ ![Screenshot 2024-04-14 192127](https://github.com/ak8459/CinemaCrush/assets/87300147/057188be-a3e5-44c7-b49f-f77df399f56f)
+
+## Single movie page
+   ![Screenshot 2024-04-14 192216](https://github.com/ak8459/CinemaCrush/assets/87300147/aae98e53-41dd-4555-8c96-7031c7e9bf64)
+
+## Movie Details
+![Screenshot 2024-04-14 192313](https://github.com/ak8459/CinemaCrush/assets/87300147/9bbe5037-44bb-4b03-82e0-1251fbf0726f)
+
+## Explore TV shows
+![Screenshot 2024-04-14 232145](https://github.com/ak8459/CinemaCrush/assets/87300147/b5d32852-1ca5-4730-92eb-255ed770fb91)
+
+## Search 
+![Screenshot 2024-04-14 232448](https://github.com/ak8459/CinemaCrush/assets/87300147/406450a7-b829-49e6-a663-bdd7ae9b5c96)
+
+
+
+
 
 
 
