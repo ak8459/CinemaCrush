@@ -19,11 +19,15 @@ CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwin
 
 # Features
 
-   -  Movie information: A movie website typically provides information about movies, including title, genre, cast, plot summary, and release date.
-  - Movie reviews and ratings: Many movie websites allow users to rate and review movies, providing feedback that can help others decide whether to watch a particular movie.
-  -  Movie trailers: A movie website may include trailers for upcoming movies or popular films that are currently in theaters.
-  -  Recommendations: Many movie websites provide personalized movie recommendations based on a user's viewing history or preferences.
- -  Watchlist: A watchlist feature allows users to save movies they want to watch later. Some movie websites also provide recommendations based on the movies a user has saved to their watchlist.
+ -  Comprehensive Movie Information: Dive into detailed movie data, including title, genre, cast, plot summary, and release date.
+- Engaging Reviews and Ratings: Share your thoughts and rate movies to help fellow enthusiasts make informed decisions.
+- Dynamic Movie Trailers: Catch previews of upcoming releases and popular films currently captivating audiences.
+- Tailored Recommendations: Discover personalized movie suggestions based on your viewing history and preferences.
+- Trending Selections: Stay in the loop with a curated section showcasing the latest trending movies right on your dashboard.
+- Cross-Platform Compatibility: Experience seamless browsing across desktops, laptops, tablets, and smartphones with our responsive design.
+- Efficient Search Capability: Easily find your favorite movies and TV shows with our intuitive search bar.
+- Sleek, User-Centric Design: Enjoy a modern interface designed for effortless navigation and maximum user satisfaction.
+- Flexible Filtering and Sorting: Customize your movie browsing experience with genre-based filtering and sorting options by title, popularity, and release date.
 
 
 
