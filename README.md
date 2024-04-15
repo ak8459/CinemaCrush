@@ -1,4 +1,4 @@
-<div align="center"><h1> CinemaCrush </h1> </div>
+# Cinema Crush
 
 # About
 CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwind CSS, and SCSS. It consists of several pages, including a home page, trending page, details page, explore page, and search page. The website fetches data using the TMDB API, which provides free movie data for the project. a dynamic and engaging movies website provides movie enthusiasts with a wide range of movies to explore and enjoy. The website is designed to be user-friendly and easy to navigate, with various features that make it simple to find the perfect movie for any occasion. It fetches data in real-time from TMDB’s API, offering an immersive experience with the help of various useful React libraries.
@@ -31,14 +31,15 @@ CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwin
 
 # Screenshots
 ## Home page
- ![Screenshot 2024-04-14 192025](https://github.com/ak8459/CinemaCrush/assets/87300147/1e7bf2d2-958b-4f78-b912-c128a43ff251)
- ![Screenshot 2024-04-14 192127](https://github.com/ak8459/CinemaCrush/assets/87300147/057188be-a3e5-44c7-b49f-f77df399f56f)
+![Screenshot 2024-04-15 114255](https://github.com/ak8459/CinemaCrush/assets/87300147/ba63ac1b-36de-40c6-ba40-8a8de24f2f88)
+
 
 ## Single movie page
    ![Screenshot 2024-04-14 192216](https://github.com/ak8459/CinemaCrush/assets/87300147/aae98e53-41dd-4555-8c96-7031c7e9bf64)
 
-## Movie Details
-![Screenshot 2024-04-14 192313](https://github.com/ak8459/CinemaCrush/assets/87300147/9bbe5037-44bb-4b03-82e0-1251fbf0726f)
+## Explore Movies 
+![Screenshot 2024-04-15 115702](https://github.com/ak8459/CinemaCrush/assets/87300147/823039da-6a1a-4f5a-961b-ebb2f1c3349e)
+
 
 ## Explore TV shows
 ![Screenshot 2024-04-14 232145](https://github.com/ak8459/CinemaCrush/assets/87300147/b5d32852-1ca5-4730-92eb-255ed770fb91)
