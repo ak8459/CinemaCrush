@@ -31,8 +31,8 @@ CinemaCrush is a website developed using ReactJS, React-Redux, TMDB API, Tailwin
 
 # Screenshots
 ## Home page
- ![Screenshot 2024-04-14 192025](https://github.com/ak8459/CinemaCrush/assets/87300147/1e7bf2d2-958b-4f78-b912-c128a43ff251)
- ![Screenshot 2024-04-14 192127](https://github.com/ak8459/CinemaCrush/assets/87300147/057188be-a3e5-44c7-b49f-f77df399f56f)
+![Screenshot 2024-04-15 114255](https://github.com/ak8459/CinemaCrush/assets/87300147/ba63ac1b-36de-40c6-ba40-8a8de24f2f88)
+
 
 ## Single movie page
    ![Screenshot 2024-04-14 192216](https://github.com/ak8459/CinemaCrush/assets/87300147/aae98e53-41dd-4555-8c96-7031c7e9bf64)
